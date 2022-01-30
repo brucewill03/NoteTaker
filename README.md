@@ -22,4 +22,4 @@ This application will allow users to create and read notes they have saved. Can 
 - Insomnia 
 
 ## Video
- ![Video](NoteTakerVid.webm)
+ ![Video](/NoteTaker/Assets/NoteTakerVid.webm)
