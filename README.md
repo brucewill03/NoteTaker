@@ -18,7 +18,6 @@ This application will allow users to create and read notes they have saved. Can 
 - CSS
 - Javascript
 - JSON
-- UUID
 - Insomnia 
 
 ## Video
