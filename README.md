@@ -21,4 +21,5 @@ This application will allow users to create and read notes they have saved. Can 
 - Insomnia 
 
 ## Video
- ![Video](/Assets/NoteTakerVid.mov)
+https://user-images.githubusercontent.com/92745609/151726985-506782dd-ecaf-46a6-b272-dca9d0eed12f.mov
+
