@@ -1,4 +1,4 @@
-# NoteTaker Wite it Check it Off
+# NoteTaker Write it Check it Off
 
 ## Table of Contents
 
